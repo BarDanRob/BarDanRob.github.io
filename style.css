@@ -36,7 +36,7 @@ html{
     font-family: EBGaramond, sans-serif;
     color:#F2EBEB;
 
-    background-image: url('/images/background3.png');
+    background-image: url('./images/background3.png');
     background-repeat: repeat;
   }
 
